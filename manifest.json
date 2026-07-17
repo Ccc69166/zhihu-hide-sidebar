@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
   "name": "知乎去侧栏",
-  "version": "2.6.0",
-  "description": "隐藏知乎非首页右侧栏，主内容区居中，支持拖拽调整宽度，SPA路由感知",
+  "version": "2.7.0",
+  "description": "隐藏知乎非首页右侧栏，主内容区居中，支持拖拽调整宽度，SPA 路由感知，专栏主页居中",
   "permissions": [],
   "host_permissions": [
     "https://www.zhihu.com/*",
